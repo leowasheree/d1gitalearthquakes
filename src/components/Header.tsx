@@ -36,7 +36,7 @@ export function Header() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://discord.com/users/d1gitalmemories"
+              href="https://discord.gg/bvPb4tB869"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
