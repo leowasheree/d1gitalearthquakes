@@ -6,5 +6,7 @@
 
 
  - You can take references from this project or use it as a template, but please credit me if so.
-
+You can deploy this using Vercel or Netlify.
 Contributions are welcome!
+
+Demo: https://d1gitalearthquakes.vercel.app/
