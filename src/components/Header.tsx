@@ -5,7 +5,11 @@ export function Header() {
     <header className="border-b border-gray-800">
       <div className="max-w-4xl mx-auto px-4 py-6 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <Activity className="w-8 h-8" />
+          <img
+            src="/logo.jpg"
+            alt="Logo"
+            className="w-8 h-8 object-cover"
+          />
           <h1 className="text-2xl font-bold">d1gitalearthquakes</h1>
         </div>
         <div className="flex items-center gap-6">
