@@ -13,7 +13,7 @@ export function Footer() {
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors"
             >
-              d1gitalmemories
+              leothesaviour
             </a>
           </p>
           
@@ -28,7 +28,7 @@ export function Footer() {
               <Globe className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com/d1gitalmemories"
+              href="https://github.com/leothesaviour"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -37,7 +37,7 @@ export function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://discord.com/users/d1gitalmemories"
+              href="https://discord.gg/ejRqzuC5vS"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
