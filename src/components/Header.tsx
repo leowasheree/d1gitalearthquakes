@@ -21,13 +21,13 @@ export function Header() {
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors"
             >
-              d1gitalmemories
+              leothesaviour
             </a>
           </p>
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/d1gitalmemories"
+              href="https://github.com/leowasheree"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -36,7 +36,7 @@ export function Header() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://discord.gg/bvPb4tB869"
+              href="https://discord.gg/ejRqzuC5vS"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
