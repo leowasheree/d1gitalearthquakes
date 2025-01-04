@@ -9,4 +9,4 @@
 You can deploy this using Vercel or Netlify.
 Contributions are welcome!
 
-Demo: https://d1gitalearthquakes.vercel.app/
+Demo: https://earthquake.leoo.lol/
